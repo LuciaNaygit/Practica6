@@ -1,0 +1,6 @@
+575737f Programacion
+2fec7ea Introduccion
+f75ee19 Fundamentos
+2b6a871 Matematicas
+69c35b5 Algebra
+78b8747 Primer commit
