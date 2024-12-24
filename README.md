@@ -13,3 +13,7 @@ Esta materia tiene como objetivo enseñarte las bases de todo lo básico que exi
 ### Fundamentos de los computadores: RODRIGUEZ PANTOJA REBECA
 
 Esta materia te da una vista diferente de cómo surgieron los computadores desde el inicio de esta era de la tecnología, cómo sus creadores y diferentes tipos de capas de red.
+
+### Introducción a la ciberseguridad: CORREA CASTILLO DARYL
+
+Esta materia te enseña cómo surgió esta área de la informática, los tipos de redes que existen, cómo encontrar las ubicaciones de páginas web con la IP pública que te ofrece la compañía de internet, hasta cosas más avanzadas como el phishing o métodos de robo de credenciales.
