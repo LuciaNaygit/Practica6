@@ -23,3 +23,5 @@ Esta materia te enseña cómo surgió esta área de la informática, los tipos d
 Esta materia te enseña desde cero qué es la programación, cómo puedes iniciar a trabajar con Git y GitHub, aplicaciones que se usarán en la vida cotidiana si te vas a dedicar a trabajar en programación o cosas por el estilo, ya que es un software muy fácil de entender y cómodo para los usuarios que lo usan.
 
 Creando la versión 1.0.0 de este repositorio.
+
+Creando la versión 1.1.0 de este repositorio.
