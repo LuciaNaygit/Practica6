@@ -25,3 +25,7 @@ Esta materia te enseña desde cero qué es la programación, cómo puedes inicia
 Creando la versión 1.0.0 de este repositorio.
 
 Creando la versión 1.1.0 de este repositorio.
+
+ola
+
+[Enlace al repositorio de la práctica 7](https://github.com/LuciaNaygit/Practica6)
