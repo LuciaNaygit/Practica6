@@ -28,4 +28,4 @@ Creando la versión 1.1.0 de este repositorio.
 
 ola
 
-[Enlace al repositorio de la práctica 7](https://github.com/LuciaNaygit/Practica6)
+[Enlace al repositorio de la práctica 7](https://github.com/LuciaNaygit/Prac7)
